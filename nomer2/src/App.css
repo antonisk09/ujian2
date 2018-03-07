@@ -6,10 +6,7 @@ body{
   background-image: url("http://hdwallpaperfootballs.com/wp-content/uploads/2013/02/Napoli-Wallpaper-HD-2013-1.jpg");
   background-size: cover
 }
-body {
-  background: url('http://wallpaper4pc.com/wp-content/uploads/2017/10/Napoli-FC-Wallpaper-HD-3200x1800.jpg') no-repeat fixed;
-background-size: cover;
-}
+
 .App-logo {
   animation: App-logo-spin infinite 20s linear;
   height: 80px;
